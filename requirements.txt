@@ -1,0 +1,12 @@
+boto3
+celery
+Django
+django-environ
+django-celery-beat
+gunicorn
+mysqlclient
+mysql-connector
+oauthlib
+redis
+requests
+simplejson
